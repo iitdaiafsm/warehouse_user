@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "672642896943",
+    "project_id": "smart-warehouse-b3713",
+    "storage_bucket": "smart-warehouse-b3713.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672642896943:android:5b00254726e285248022da",
+        "android_client_info": {
+          "package_name": "com.fsm.warehouse_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672642896943-ean0pnro63ifvqiqhoapu2dqfr26gm1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgmjf_Z1d14gzMAHWZtlU4dgoyQAvCB4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672642896943-ean0pnro63ifvqiqhoapu2dqfr26gm1d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "672642896943-8p00huusvromsc5blnqui5nlo99svio3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fsm.warehouseUser"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
